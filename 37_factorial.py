@@ -3,5 +3,5 @@ def factorial_recursive(n):
         return 1
     return n * factorial_recursive(n-1)
 
-f = factorial_recursive(1)
+f = factorial_recursive(4)
 print(f)

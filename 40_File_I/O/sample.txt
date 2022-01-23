@@ -1,0 +1,2 @@
+Hello, today is sunday.
+Yesterday is friday.
